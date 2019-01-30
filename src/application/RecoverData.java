@@ -7,7 +7,7 @@ import java.sql.Statement;
 
 import db.DB;
 
-public class Program2 {
+public class RecoverData {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
